@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "frida": "^17.3.2",
+    "frida-il2cpp-bridge": "^0.12.1",
+    "frida-java-bridge": "^7.0.8"
+  },
+  "devDependencies": {
+    "@types/frida-gum": "^19.0.1",
+    "@types/node": "^24.7.2",
+    "eslint": "^9.37.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
